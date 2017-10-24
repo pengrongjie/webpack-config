@@ -1,5 +1,6 @@
 # webpack-config
-> webpack基本常用配置
+webpack基本常用配置
+> js和css分离打包，生成bundle.js和bundle.css
 - [x] es6转为浏览器支持的js语法
 - [x] css
 - [x] less预处理
